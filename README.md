@@ -46,6 +46,7 @@ Our findings confirm that **Transfer Learning** significantly outperforms traini
 ## 📂 Repository Structure
 *   `handcrafted_models.ipynb`: TensorFlow implementation of custom CNNs and Multimodal networks.
 *   `pretrained_models.py`: PyTorch implementation of ResNet50, VGG16, and ViT fine-tuning.
+*   `Report.pdd`: The full technical study.
 
 ## 👥 Contributors
 *   **Naman Dhaval Desai**
